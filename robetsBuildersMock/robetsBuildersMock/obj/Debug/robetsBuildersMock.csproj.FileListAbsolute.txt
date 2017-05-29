@@ -1,0 +1,9 @@
+c:\users\swdev05\documents\visual studio 2015\Projects\robetsBuildersMock\robetsBuildersMock\bin\Debug\robetsBuildersMock.exe.config
+c:\users\swdev05\documents\visual studio 2015\Projects\robetsBuildersMock\robetsBuildersMock\bin\Debug\robetsBuildersMock.exe
+c:\users\swdev05\documents\visual studio 2015\Projects\robetsBuildersMock\robetsBuildersMock\bin\Debug\robetsBuildersMock.pdb
+c:\users\swdev05\documents\visual studio 2015\Projects\robetsBuildersMock\robetsBuildersMock\obj\Debug\robetsBuildersMock.csprojResolveAssemblyReference.cache
+c:\users\swdev05\documents\visual studio 2015\Projects\robetsBuildersMock\robetsBuildersMock\obj\Debug\robetsBuildersMock.RobertsBuilders.resources
+c:\users\swdev05\documents\visual studio 2015\Projects\robetsBuildersMock\robetsBuildersMock\obj\Debug\robetsBuildersMock.Properties.Resources.resources
+c:\users\swdev05\documents\visual studio 2015\Projects\robetsBuildersMock\robetsBuildersMock\obj\Debug\robetsBuildersMock.csproj.GenerateResource.Cache
+c:\users\swdev05\documents\visual studio 2015\Projects\robetsBuildersMock\robetsBuildersMock\obj\Debug\robetsBuildersMock.exe
+c:\users\swdev05\documents\visual studio 2015\Projects\robetsBuildersMock\robetsBuildersMock\obj\Debug\robetsBuildersMock.pdb
